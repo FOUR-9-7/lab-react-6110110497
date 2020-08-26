@@ -3,7 +3,6 @@ import WordCard from './WordCard';
 import logo from './logo.svg';
 import './App.css';
 
-const word = "watermelon";
 
 function shoot() {
   alert("เรียงคำศัพท์ให้ถูกต้อง");
