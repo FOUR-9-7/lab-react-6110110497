@@ -14,3 +14,47 @@
   background: teal;
  }
 
+ 
+ 
+body {
+  background-color: #F44336;
+  color: #ffffff;
+  text-align: center;
+}
+h1,
+h2 {
+		text-align: center;
+		margin-bottom: 20px;
+}
+
+
+button {
+  transition-duration: 0.4s;
+  width: 160px;
+  height: 36px;
+  background-color: #ffffff;
+  border: none;
+  color: #F44336;
+  font-size: 0.95rem;
+  display: block;
+  margin: 12px auto;
+}
+
+button:hover {
+  width: 200px;
+  cursor: pointer;
+}
+
+button:active,
+button:hover {
+  transition-duration: 0.3s;
+  outline: none;
+  background-color: #fee5e3;
+}
+
+button:focus {
+  outline: none;
+}
+
+
+
