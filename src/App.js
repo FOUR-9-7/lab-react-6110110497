@@ -3,7 +3,7 @@ import WordCard from './WordCard';
 import logo from './logo.svg';
 import './App.css';
 
-const word = "Hello";
+const word = "watermelon";
 
 function shoot() {
   alert("เรียงคำศัพท์ให้ถูกต้อง");
@@ -29,7 +29,7 @@ function App() {
 
     
 
-    <WordCard id="page-1" value="hello"/>
+    <WordCard id="page-1" value="captain"/>
     {/* <WordCard id="page-2" value="watermelon"/>
     <WordCard id="page-3" value="CHERRYBLOSSOM"/> */}
 
